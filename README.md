@@ -4,10 +4,10 @@ Notes, class lectures and games.
 
 
 ## Installing software for the class
-We will use [https://thonny.org/](Thonny) for the first part of our programming course.
+We will use [Thonny](https://thonny.org/) for the first part of our programming course.
 This is a very easy piece of software for learning Python
-Just download it for [https://github.com/thonny/thonny/releases/download/v3.2.7/thonny-3.2.7.exe](Windows) or 
-[https://github.com/thonny/thonny/releases/download/v3.2.7/thonny-3.2.7.pkg](Mac OS X), and follow the instructions
+Just download it for [Windows](https://github.com/thonny/thonny/releases/download/v3.2.7/thonny-3.2.7.exe) or 
+[Mac OS X](https://github.com/thonny/thonny/releases/download/v3.2.7/thonny-3.2.7.pkg), and follow the instructions
 for installation.
 
 
